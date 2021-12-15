@@ -1,0 +1,21 @@
+C:\Users\章佳彬66\Desktop\服务器代码\Sever1\SeverGame\AllSever\bin\Debug\AllSever.exe.config
+C:\Users\章佳彬66\Desktop\服务器代码\Sever1\SeverGame\AllSever\bin\Debug\AllSever.exe
+C:\Users\章佳彬66\Desktop\服务器代码\Sever1\SeverGame\AllSever\bin\Debug\AllSever.pdb
+C:\Users\章佳彬66\Desktop\服务器代码\Sever1\SeverGame\AllSever\obj\Debug\AllSever.csproj.AssemblyReference.cache
+C:\Users\章佳彬66\Desktop\服务器代码\Sever1\SeverGame\AllSever\obj\Debug\AllSever.csproj.CoreCompileInputs.cache
+C:\Users\章佳彬66\Desktop\服务器代码\Sever1\SeverGame\AllSever\obj\Debug\AllSever.exe
+C:\Users\章佳彬66\Desktop\服务器代码\Sever1\SeverGame\AllSever\obj\Debug\AllSever.pdb
+E:\MyStudy\U3dAllClass\HighOneClass\Battle City\坦克大战3D联机版本\AllSever\bin\Debug\AllSever.exe.config
+E:\MyStudy\U3dAllClass\HighOneClass\Battle City\坦克大战3D联机版本\AllSever\bin\Debug\AllSever.exe
+E:\MyStudy\U3dAllClass\HighOneClass\Battle City\坦克大战3D联机版本\AllSever\bin\Debug\AllSever.pdb
+E:\MyStudy\U3dAllClass\HighOneClass\Battle City\坦克大战3D联机版本\AllSever\obj\Debug\AllSever.csproj.AssemblyReference.cache
+E:\MyStudy\U3dAllClass\HighOneClass\Battle City\坦克大战3D联机版本\AllSever\obj\Debug\AllSever.csproj.CoreCompileInputs.cache
+E:\MyStudy\U3dAllClass\HighOneClass\Battle City\坦克大战3D联机版本\AllSever\obj\Debug\AllSever.exe
+E:\MyStudy\U3dAllClass\HighOneClass\Battle City\坦克大战3D联机版本\AllSever\obj\Debug\AllSever.pdb
+E:\Mywork\Git仓库\TestGitee\DD\Battle City\TankWarsServer\bin\Debug\AllSever.exe.config
+E:\Mywork\Git仓库\TestGitee\DD\Battle City\TankWarsServer\bin\Debug\AllSever.exe
+E:\Mywork\Git仓库\TestGitee\DD\Battle City\TankWarsServer\bin\Debug\AllSever.pdb
+E:\Mywork\Git仓库\TestGitee\DD\Battle City\TankWarsServer\obj\Debug\AllSever.csproj.AssemblyReference.cache
+E:\Mywork\Git仓库\TestGitee\DD\Battle City\TankWarsServer\obj\Debug\AllSever.csproj.CoreCompileInputs.cache
+E:\Mywork\Git仓库\TestGitee\DD\Battle City\TankWarsServer\obj\Debug\AllSever.exe
+E:\Mywork\Git仓库\TestGitee\DD\Battle City\TankWarsServer\obj\Debug\AllSever.pdb
